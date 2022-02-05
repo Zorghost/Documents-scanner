@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6914b2cc-09ff-49b7-96fb-703166110729": {
+      "ProjectGuid": "6914b2cc-09ff-49b7-96fb-703166110729",
+      "DisplayName": "Document scanner c++",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
